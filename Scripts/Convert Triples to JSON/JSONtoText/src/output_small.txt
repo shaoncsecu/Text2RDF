@@ -1,0 +1,57 @@
+[
+{
+    "@id": "http://example.com/1",
+    "@type": "saluted",
+    "subject": "VETERANS",
+    "object": "Worcester 's first ever breakfast club",
+    "@context": {
+        "saluted": "http://example.com/type#saluted",
+        "subject": "http://example.com/subject",
+        "object": "http://example.com/object"
+    }
+},
+{
+    "@id": "http://example.com/2",
+    "@type": "won-over",
+    "subject": "ex-soldiers which",
+    "object": "hearts , minds and bellies",
+    "@context": {
+        "won-over": "http://example.com/type#won-over",
+        "subject": "http://example.com/subject",
+        "object": "http://example.com/object"
+    }
+},
+{
+    "@id": "http://example.com/3",
+    "@type": "allow",
+    "subject": "The club",
+    "object": "veterans a place to meet , socialise , eat and drink , giving hunger and loneliness their marching orders",
+    "@context": {
+        "allow": "http://example.com/type#allow",
+        "subject": "http://example.com/subject",
+        "object": "http://example.com/object"
+    }
+},
+{
+    "@id": "http://example.com/4",
+    "@type": "eliminates",
+    "subject": "Our platform",
+    "object": "the hacks , assumptions , and guesswork that marketers are doing now and provides real data : actual searches tied to actual conversions conducted by real people with nothing inferred",
+    "@context": {
+        "eliminates": "http://example.com/type#eliminates",
+        "subject": "http://example.com/subject",
+        "object": "http://example.com/object"
+    }
+},
+{
+    "@id": "http://example.com/5",
+    "@type": "Whether-it-'s-in-the-U.S.-,-Japan-or-Europe-likes-said-Joe-Saluzzi-,-co-manager-of-trading-at-Themis-Trading-in-Chatham-,-New-Jersey",
+    "subject": "the market",
+    "object": "quantitative easing",
+    "@context": {
+        "Whether-it-'s-in-the-U.S.-,-Japan-or-Europe-likes-said-Joe-Saluzzi-,-co-manager-of-trading-at-Themis-Trading-in-Chatham-,-New-Jersey": "http://example.com/type#Whether-it-'s-in-the-U.S.-,-Japan-or-Europe-likes-said-Joe-Saluzzi-,-co-manager-of-trading-at-Themis-Trading-in-Chatham-,-New-Jersey",
+        "subject": "http://example.com/subject",
+        "object": "http://example.com/object"
+    }
+}
+]
