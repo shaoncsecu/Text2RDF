@@ -1,0 +1,1 @@
+Due to reasons of size, we do not upload the entire news corpus we used, but submit a sample of 1k.
